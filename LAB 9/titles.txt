@@ -1,0 +1,6 @@
+tp1
+tp2
+tp_total
+cwnd1
+cwnd2
+qsize
